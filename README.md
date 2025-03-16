@@ -28,7 +28,7 @@ Built classification models (Logistic Regression, Random Forest, etc.) to predic
 Identified key words influencing each sentiment rating.
 Validated model performance and compared actual vs. predicted sentiments.
 
-4️⃣ GPT-3.5 Summarization & Feedback 
+4️⃣ Google Gemini Summarization & Feedback 
 - Generated 1-2 sentence summaries of complaint narratives using OpenAI's GPT-3.5 API.
 - Analyzed low sentiment complaints and asked GPT-3.5 for possible improvements.
 - Identified predictive words/themes for each sentiment score.
@@ -36,4 +36,4 @@ Validated model performance and compared actual vs. predicted sentiments.
 🏆 Key Takeaways
 NLP techniques help uncover patterns in unstructured financial complaints.
 Sentiment analysis & ML models provide insights into customer dissatisfaction.
-GPT-3.5 is a powerful tool for summarizing and analyzing large-scale complaints.
+Google Gemini is a powerful tool for summarizing and analyzing large-scale complaints.
