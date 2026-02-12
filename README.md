@@ -35,6 +35,7 @@ Validated model performance and compared actual vs. predicted sentiments.
 - Identified predictive words/themes for each sentiment score.
   
 **🏆 Key Takeaways**
+
 NLP techniques help uncover patterns in unstructured financial complaints.
 Sentiment analysis & ML models provide insights into customer dissatisfaction.
 Google Gemini is a powerful tool for summarizing and analyzing large-scale complaints.
