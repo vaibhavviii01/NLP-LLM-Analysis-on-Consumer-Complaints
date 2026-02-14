@@ -1,6 +1,6 @@
 # NLP-LLM-Analysis-on-Consumer-Complaints
 
-**🔍 Project Overview**
+# 🔍 Project Overview
 
 This assignment applies NLP techniques to extract insights from consumer financial complaints. The goal is to analyze textual data, classify consumer issues, and predict sentiment while ensuring data quality and visualization.
 
