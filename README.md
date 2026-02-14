@@ -34,7 +34,7 @@ Validated model performance and compared actual vs. predicted sentiments.
 - Analyzed low sentiment complaints.
 - Identified predictive words/themes for each sentiment score.
 
-# Tech Stack
+# 🛠️ Tech Stack
 
 **Language:** Python
 
@@ -42,7 +42,7 @@ Validated model performance and compared actual vs. predicted sentiments.
 
 **Models/APIs:** OpenAI GPT-3.5
 
-# 🏆 Key Takeaways**
+# 🏆 Key Takeaways
 
 **Customer Experience:** Prioritize clear timelines for dispute resolutions and enhance representative training.
 
