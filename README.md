@@ -33,9 +33,19 @@ Validated model performance and compared actual vs. predicted sentiments.
 - Generated 1-2 sentence summaries of complaint narratives using Google Gemini's API.
 - Analyzed low sentiment complaints.
 - Identified predictive words/themes for each sentiment score.
-  
-**🏆 Key Takeaways**
 
-NLP techniques help uncover patterns in unstructured financial complaints.
-Sentiment analysis & ML models provide insights into customer dissatisfaction.
-Google Gemini is a powerful tool for summarizing and analyzing large-scale complaints.
+# Tech Stack
+
+**Language:** Python
+
+**Libraries:** Pandas, NLTK, Scikit-learn, Matplotlib, Seaborn, ydata-profiling
+
+**Models/APIs:** OpenAI GPT-3.5
+
+# 🏆 Key Takeaways**
+
+**Customer Experience:** Prioritize clear timelines for dispute resolutions and enhance representative training.
+
+**Branding:** Focus on transparency in addressing fraud concerns to build long-term credibility.
+
+**Features:** Expand fraud detection systems and provide accessible documentation for disputed accounts.
