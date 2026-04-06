@@ -29,8 +29,8 @@ Built classification models (Logistic Regression, Random Forest, etc.) to predic
 Identified key words influencing each sentiment rating.
 Validated model performance and compared actual vs. predicted sentiments.
 
-**4️⃣ Google Gemini Summarization & Feedback** 
-- Generated 1-2 sentence summaries of complaint narratives using Google Gemini's API.
+**4️⃣ Claude Summarization & Feedback** 
+- Generated 1-2 sentence summaries of complaint narratives using Claude API.
 - Analyzed low sentiment complaints.
 - Identified predictive words/themes for each sentiment score.
 
@@ -40,7 +40,7 @@ Validated model performance and compared actual vs. predicted sentiments.
 
 **Libraries:** Pandas, NLTK, Scikit-learn, Matplotlib, Seaborn, ydata-profiling
 
-**Models/APIs:** OpenAI GPT-3.5
+**Models/APIs:** Claude API
 
 # 🏆 Key Takeaways
 
